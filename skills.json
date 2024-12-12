@@ -1,158 +1,158 @@
 [
-	{
-		"name" : "C/C++",
-		"level" : 3
-	},
-	{
-		"name" : "Python",
-		"level" : 1
-	},
-	{
-		"name" : "PHP",
-		"level" : 3
-	},
-	{
-		"name" : "SQL",
-		"level" : 3
-	},
-	{
-		"name" : "MySQL",
-		"level" : 3
-	},
-	{
-		"name" : "Firebird",
-		"level" : 3
-	},
-	{
-		"name" : "JS",
-		"level" : 2
-	},
-	{
-		"name" : "Siemens",
-		"level" : 3
-	},
-	{
-		"name" : "Arduino",
-		"level" : 3
-	},
-	{
-		"name" : "Tia Portal",
-		"level" : 3
-	},
-	{
-		"name" : "Git",
-		"level" : 3
-	},
-	{
-		"name" : "ChatGPT",
-		"level" : 3
-	},
-	{
-		"name" : "Linux",
-		"level" : 3
-	},
-	{
-		"name" : "Bash",
-		"level" : 2
-	},
-	{
-		"name" : "Arch Linux",
-		"level" : 3
-	},
-	{
-		"name" : "Ubuntu",
-		"level" : 3
-	},
-	{
-		"name" : "Virtualbox",
-		"level" : 2
-	},
-	{
-		"name" : "VMware",
-		"level" : 2
-	},
-	{
-		"name" : "HTML",
-		"level" : 3
-	},
-	{
-		"name" : "CSS",
-		"level" : 3
-	},
-	{
-		"name" : "Vim",
-		"level" : 2
-	},
-	{
-		"name" : "Networking",
-		"level" : 2
-	},
-	{
-		"name" : "Video editing",
-		"level" : 3
-	},
-	{
-		"name" : "Video recording",
-		"level" : 3
-	},
-	{
-		"name" : "soldering",
-		"level" : 3
-	},
-	{
-		"name" : "wire laying",
-		"level" : 3
-	},
-	{
-		"name" : "Hardware repairs",
-		"level" : 3
-	},
-	{
-		"name" : "Woodwork",
-		"level" : 2
-	},
-	{
-		"name" : "Manual labor",
-		"level" : 3
-	},
-	{
-		"name" : "Team work",
-		"level" : 3
-	},
-	{
-		"name" : "Team leading",
-		"level" : 3
-	},
-	{
-		"name" : "Communication",
-		"level" : 3
-	},
-	{
-		"name" : "Critical thinking",
-		"level" : 3
-	},
-	{
-		"name" : "Problem solving",
-		"level" : 3
-	},
-	{
-		"name" : "French",
-		"level" : 3
-	},
-	{
-		"name" : "Loyalty",
-		"level" : 3
-	},
-	{
-		"name" : "Discipline",
-		"level" : 2
-	},
-	{
-		"name" : "Consistency",
-		"level" : 3
-	},
-	{
-		"name" : "Honesty",
-		"level" : 3
-	}
+    {
+        "name": "C/C++",
+        "level": 3
+    },
+    {
+        "name": "Python",
+        "level": 1
+    },
+    {
+        "name": "PHP",
+        "level": 3
+    },
+    {
+        "name": "SQL",
+        "level": 3
+    },
+    {
+        "name": "MySQL",
+        "level": 3
+    },
+    {
+        "name": "Firebird",
+        "level": 3
+    },
+    {
+        "name": "JS",
+        "level": 2
+    },
+    {
+        "name": "Siemens",
+        "level": 3
+    },
+    {
+        "name": "Arduino",
+        "level": 3
+    },
+    {
+        "name": "Tia Portal",
+        "level": 3
+    },
+    {
+        "name": "Git",
+        "level": 3
+    },
+    {
+        "name": "ChatGPT",
+        "level": 3
+    },
+    {
+        "name": "Linux",
+        "level": 3
+    },
+    {
+        "name": "Bash",
+        "level": 2
+    },
+    {
+        "name": "Arch Linux",
+        "level": 3
+    },
+    {
+        "name": "Ubuntu",
+        "level": 3
+    },
+    {
+        "name": "Virtualbox",
+        "level": 2
+    },
+    {
+        "name": "VMware",
+        "level": 2
+    },
+    {
+        "name": "HTML",
+        "level": 3
+    },
+    {
+        "name": "CSS",
+        "level": 3
+    },
+    {
+        "name": "Vim",
+        "level": 2
+    },
+    {
+        "name": "Networking",
+        "level": 2
+    },
+    {
+        "name": "Video editing",
+        "level": 3
+    },
+    {
+        "name": "Video recording",
+        "level": 3
+    },
+    {
+        "name": "soldering",
+        "level": 3
+    },
+    {
+        "name": "wire laying",
+        "level": 3
+    },
+    {
+        "name": "Hardware repairs",
+        "level": 3
+    },
+    {
+        "name": "Woodwork",
+        "level": 2
+    },
+    {
+        "name": "Manual labor",
+        "level": 3
+    },
+    {
+        "name": "Team work",
+        "level": 3
+    },
+    {
+        "name": "Team leading",
+        "level": 3
+    },
+    {
+        "name": "Communication",
+        "level": 3
+    },
+    {
+        "name": "Critical thinking",
+        "level": 3
+    },
+    {
+        "name": "Problem solving",
+        "level": 3
+    },
+    {
+        "name": "French",
+        "level": 3
+    },
+    {
+        "name": "Loyalty",
+        "level": 3
+    },
+    {
+        "name": "Discipline",
+        "level": 2
+    },
+    {
+        "name": "Consistency",
+        "level": 3
+    },
+    {
+        "name": "Honesty",
+        "level": 3
+    }
 ]
