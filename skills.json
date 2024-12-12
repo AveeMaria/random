@@ -1,6 +1,4 @@
-/*hvala Klemen za idejo!*/
 [
-	/*computer stuff*/
 	{
 		"name" : "C/C++",
 		"level" : 3
@@ -97,7 +95,6 @@
 		"name" : "Video recording",
 		"level" : 3
 	},
-	/*fizicno*/
 	{
 		"name" : "soldering",
 		"level" : 3
@@ -118,7 +115,6 @@
 		"name" : "Manual labor",
 		"level" : 3
 	},
-	/*ostalo*/
 	{
 		"name" : "Team work",
 		"level" : 3
@@ -132,7 +128,7 @@
 		"level" : 3
 	},
 	{
-		"name" : "Critical thinking",/*nezazeljeno*/
+		"name" : "Critical thinking",
 		"level" : 3
 	},
 	{
